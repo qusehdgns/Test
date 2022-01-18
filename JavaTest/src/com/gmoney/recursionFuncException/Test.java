@@ -1,4 +1,4 @@
-package com.gmoney.test;
+package com.gmoney.recursionFuncException;
 
 public class Test {
 
