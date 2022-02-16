@@ -8,7 +8,7 @@
  *
  * 3개 주사위의 나온 눈이 주어질 때, 상금을 계산하는 프로그램을 작성 하시오.
  */
-package com.gmoney.baekjoon;
+package com.gmoney.baekjoon.if_2;
 
 import java.util.Arrays;
 import java.util.Scanner;

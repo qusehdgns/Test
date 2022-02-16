@@ -13,7 +13,7 @@
  *
  * https://www.acmicpc.net/blog/view/55 에서 BOJ의 기타 여러 가지 팁을 볼 수 있다.
  */
-package com.gmoney.baekjoon;
+package com.gmoney.baekjoon.for_3;
 
 import java.io.*;
 
