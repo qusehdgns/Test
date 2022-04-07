@@ -1,4 +1,4 @@
-package com.gmoney.baekjoon;
+package com.gmoney.baekjoon.recursionFunc_10;
 
 import java.util.Arrays;
 import java.util.Collections;
